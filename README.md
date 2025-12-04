@@ -1,2 +1,3 @@
 # Algorithms
-Algy
+
+Basic Algorithms

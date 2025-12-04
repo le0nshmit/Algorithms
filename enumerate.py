@@ -14,5 +14,3 @@ class Enumerate():
                 file_open.close()
 
         return results
-
-
